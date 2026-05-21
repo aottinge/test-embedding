@@ -1,0 +1,11 @@
+[
+  {
+    "query": "Quelle est la date de publication du rapport?",
+    "relevant": ["/path/to/report.pdf"]
+  },
+  {
+    "query": "Comment contacter le support technique?",
+    "relevant": ["/path/to/contact.pdf"]
+  }
+]
+
